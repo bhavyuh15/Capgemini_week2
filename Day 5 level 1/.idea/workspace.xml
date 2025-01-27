@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8040f2b2-591c-4f81-be9d-c4720db18cac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2s5MSUfbqzLnsuBoONNoIfaHzFQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AnimalKingdoms.executor": "Debug",
+    "Application.LibraryManagementSystem.executor": "Run",
+    "Application.OnlineRetailOrderManagement.executor": "Run",
+    "Application.RestaurantManagementSystem.executor": "Run",
+    "Application.SchoolSystemWithDifferentRoles.executor": "Run",
+    "Application.VehicleManagementSystem.executor": "Run",
+    "Application.assisted_problems.vehicle.main.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/VIVEK PATHAK/OneDrive/Desktop/Day05/src/assisted_problems",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VIVEK PATHAK\OneDrive\Desktop\Day05\src\assisted_problems" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AnimalKingdoms">
+    <configuration name="AnimalKingdoms" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="assisted_problems.animalkingdom.AnimalKingdoms" />
+      <module name="Day05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assisted_problems.animalkingdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineRetailOrderManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multilevel_inheritance.retail_order_management.OnlineRetailOrderManagement" />
+      <module name="Day05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestaurantManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hybrid_inheritance.restaurant.RestaurantManagementSystem" />
+      <module name="Day05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolSystemWithDifferentRoles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hierarchical_inheritance.school_system.SchoolSystemWithDifferentRoles" />
+      <module name="Day05" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hierarchical_inheritance.school_system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hybrid_inheritance.vehicle.VehicleManagementSystem" />
+      <module name="Day05" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AnimalKingdoms" />
+        <item itemvalue="Application.VehicleManagementSystem" />
+        <item itemvalue="Application.RestaurantManagementSystem" />
+        <item itemvalue="Application.SchoolSystemWithDifferentRoles" />
+        <item itemvalue="Application.OnlineRetailOrderManagement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8040f2b2-591c-4f81-be9d-c4720db18cac" name="Changes" comment="" />
+      <created>1737740985185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737740985185</updated>
+      <workItem from="1737740986493" duration="61000" />
+      <workItem from="1737741100967" duration="2928000" />
+      <workItem from="1737744109276" duration="44000" />
+      <workItem from="1737744493094" duration="148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
